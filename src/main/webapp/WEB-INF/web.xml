@@ -22,7 +22,7 @@
         <servlet-name>demo</servlet-name>
         <url-pattern>/personinfo.jsp</url-pattern>
         <url-pattern>/personinfo.html</url-pattern>
-        <url-pattern>*.html</url-pattern>
+        <url-pattern>*.jsp</url-pattern>
     </servlet-mapping> 
  
 </web-app>
