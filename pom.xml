@@ -70,6 +70,11 @@
     	<version>4.2.2</version>
     	<type>pom</type>
     </dependency>
+    <dependency>
+    	<groupId>dom4j</groupId>
+    	<artifactId>dom4j-core</artifactId>
+    	<version>1.4-dev-8</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>demo</finalName>
