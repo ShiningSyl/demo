@@ -43,7 +43,7 @@
 	String fn = request.getParameter("firstname");
 	String ln = request.getParameter("lastname");
 	
-	File file = new File("/Users/chengyangyan/Documents/workspaceEE/demo/beans.XML");
+	File file = new File("beans.xml");
 	
 	//PrintStream ps = null;
 	//ps = new PrintStream(new FileOutputStream(file));
